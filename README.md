@@ -1,10 +1,10 @@
 # Hi there, I'm Akash Singh! 👋
 
-I'm a passionate Software Developer based in India, with over 3.6 years of experience in the industry. My expertise lies in JavaScript, TypeScript, React, React-Native, HTML5, CSS3, and more. I have a proven track record of delivering high-quality applications and contributing effectively to development teams.
+I'm a passionate Software Developer based in India, with 3+ years of experience in the industry. My expertise lies in JavaScript, TypeScript, React, React-Native, HTML5, CSS3, and more. I have a proven track record of delivering high-quality applications and contributing effectively to development teams.
 
 ## 🚀 About Me
 
-- 🔭 Currently, I'm working as an SDE-2 at Rapipay Fintech, where I play a crucial role in developing responsive and optimized UI components using ReactJS for the NYE web application.
+- 🔭 Currently, I'm working as an SDE-2 at Partnr, where I play a crucial role in developing responsive and optimized UI components using ReactJS/NextJS, React-Native for the Partnr mobile application.
 - 🌱 I'm passionate about frontend development and constantly exploring new technologies and frameworks to enhance my skills.
 - 💬 Ask me about JavaScript, React, or anything related to web development! I'm always happy to share my knowledge and experiences.
 - 📫 You can reach me via email at singhakash311298@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/akash-singh-b7a5ab154).
@@ -12,7 +12,7 @@ I'm a passionate Software Developer based in India, with over 3.6 years of exper
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** ReactJS, React-Native
+- **Frameworks/Libraries:** ReactJS, NextJS, React-Native
 - **Testing:** Selenium, Jest
 - **Version Control:** Git, AWS-CodeCommit
 - **Project Management/Tracking:** JIRA
@@ -20,8 +20,12 @@ I'm a passionate Software Developer based in India, with over 3.6 years of exper
 ## 💼 Experience
 
 ### SDE-II FrontEnd
+#### Spare Super Hero, Gurugram, India
+_Apr 2024 - present_
+
+### SDE-II FrontEnd
 #### Rapipay Fintech Private Limited, Noida, India
-_Nov 2023 - Present_
+_Nov 2023 - Apr 2024_
 - Developed UI components for the NYE website using ReactJS, ensuring a seamless user experience.
 - Contributed to Proof of Concept (POC) for custom VKYC solution and shared libraries containing common React components.
 - Collaborated with cross-functional teams to integrate API endpoints and ensure smooth data flow.
